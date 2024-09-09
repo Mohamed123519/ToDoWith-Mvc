@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TodoAPP</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/TodoAPP.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-light container d-flex justify-content-between align-items-center mb-5 mt-3">
+            <div>
+                <a class="navbar-brand" href="#">
+                    <img src="~/images/logo.png" />
+                    Todo
+                </a>
+            </div>
+            <div class="fs-4">
+                @{
+                    var action = ViewContext.RouteData.Values["Action"];
+                    var contoller = ViewContext.RouteData.Values["Controller"];
+
+                    var activeTodo = ((action?.ToString() == "Index") && (contoller?.ToString() == "Todo")) ? "active" : "";
+                    var activeCategory = ((action?.ToString() == "Index") && (contoller?.ToString() == "Category")) ? "active" : "";
+                    var activeRegister = ((action?.ToString() == "Resgister") && (contoller?.ToString() == "Account")) ? "active" : "";
+                    var activeLogin = ((action?.ToString() == "Login") && (contoller?.ToString() == "Account")) ? "active" : "";
+                }
+                <a class="mx-2 alink @activeTodo" asp-action="Index" asp-controller="Todo">Todo</a>
+                @if (User?.Claims?.FirstOrDefault(c => c.Type == "Role")?.Value == "Admin")
+                {
+                <a class="mx-2 alink @activeCategory" asp-action="Index" asp-controller="Category">Category</a>    
+                }
+
+
+
+                @if (User?.Identity?.IsAuthenticated == true)
+                {
+                    <a class="mx-2 alink" asp-action="Logout" asp-controller="Account">Log out</a>
+                }
+                else
+                {
+                    <a class="mx-2 alink @activeRegister" asp-action="Resgister" asp-controller="Account">Register</a>
+                    <a class="mx-2 alink @activeLogin" asp-action="Login" asp-controller="Account">Log In</a>
+                }
+
+
+                
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3 d-flex flex-column justify-content-center align-items-center content">
+            @RenderBody()
+        </main>
+    </div>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

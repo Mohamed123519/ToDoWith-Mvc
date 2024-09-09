@@ -1,0 +1,662 @@
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\appsettings.json
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.staticwebassets.runtime.json
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.exe
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.deps.json
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.runtimeconfig.json
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.pdb
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.csproj.AssemblyReference.cache
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.AssemblyInfoInputs.cache
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.AssemblyInfo.cs
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.csproj.CoreCompileInputs.cache
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.RazorAssemblyInfo.cache
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.RazorAssemblyInfo.cs
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.TodoAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoAPP.props
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPP.props
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoAPP.props
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\scopedcss\bundle\TodoAPP.styles.css
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\scopedcss\projectbundle\TodoAPP.bundle.scp.css
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.csproj.CopyComplete
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\refint\TodoAPP.dll
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.pdb
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.genruntimeconfig.cache
+C:\Users\Maghawry\Desktop\TodoAPP\TodoAPP\obj\Debug\net7.0\ref\TodoAPP.dll
+H:\ITI\Day 20 MVC\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.dll
+H:\ITI\Day 20 MVC\TodoAPP\TodoAPP\obj\Debug\net7.0\refint\TodoAPP.dll
+H:\ITI\Day 20 MVC\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.pdb
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\appsettings.Development.json
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\appsettings.json
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.staticwebassets.runtime.json
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.exe
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.deps.json
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.runtimeconfig.json
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.pdb
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Azure.Core.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Azure.Identity.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Humanizer.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.CodeDom.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Memory.Data.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.csproj.AssemblyReference.cache
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.AssemblyInfoInputs.cache
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.AssemblyInfo.cs
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.csproj.CoreCompileInputs.cache
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.MvcApplicationPartsAssemblyInfo.cache
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.RazorAssemblyInfo.cache
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.RazorAssemblyInfo.cs
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.TodoAPP.Microsoft.AspNetCore.StaticWebAssets.props
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoAPP.props
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPP.props
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoAPP.props
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets.pack.json
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets.build.json
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets.development.json
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\scopedcss\bundle\TodoAPP.styles.css
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\scopedcss\projectbundle\TodoAPP.bundle.scp.css
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.csproj.CopyComplete
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.dll
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\refint\TodoAPP.dll
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.pdb
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.genruntimeconfig.cache
+H:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\ref\TodoAPP.dll
+G:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.dll
+G:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\refint\TodoAPP.dll
+G:\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.pdb
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\appsettings.json
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.staticwebassets.runtime.json
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.exe
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.deps.json
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.runtimeconfig.json
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.pdb
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.csproj.AssemblyReference.cache
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.AssemblyInfoInputs.cache
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.AssemblyInfo.cs
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.csproj.CoreCompileInputs.cache
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.RazorAssemblyInfo.cache
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.RazorAssemblyInfo.cs
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.TodoAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoAPP.props
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPP.props
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoAPP.props
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\scopedcss\bundle\TodoAPP.styles.css
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\scopedcss\projectbundle\TodoAPP.bundle.scp.css
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.csproj.Up2Date
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\refint\TodoAPP.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.pdb
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.genruntimeconfig.cache
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\obj\Debug\net7.0\ref\TodoAPP.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Compumarts\Downloads\Back End\ITI\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\appsettings.json
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.staticwebassets.runtime.json
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.exe
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.deps.json
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.runtimeconfig.json
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\TodoAPP.pdb
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.csproj.AssemblyReference.cache
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.AssemblyInfoInputs.cache
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.AssemblyInfo.cs
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.csproj.CoreCompileInputs.cache
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.RazorAssemblyInfo.cache
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.RazorAssemblyInfo.cs
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.TodoAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.build.TodoAPP.props
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TodoAPP.props
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TodoAPP.props
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\scopedcss\bundle\TodoAPP.styles.css
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\scopedcss\projectbundle\TodoAPP.bundle.scp.css
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.csproj.Up2Date
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\refint\TodoAPP.dll
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.pdb
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\TodoAPP.genruntimeconfig.cache
+C:\Users\mohmmed\Downloads\Telegram Desktop\TodoAPP.worked\TodoAPP\TodoAPP\obj\Debug\net7.0\ref\TodoAPP.dll

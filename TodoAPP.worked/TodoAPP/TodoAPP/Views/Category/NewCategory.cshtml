@@ -1,0 +1,26 @@
+﻿@model CreateCategory
+
+@{
+    // Ensure action is set even if Model is null
+    var action = (Model?.Id == 0) ? "SaveNewCategory" : "SaveUpdateCategory";
+}
+
+<h1>New Category</h1>
+
+<div class="w-50 mx-auto">
+    <form asp-action="@action" asp-controller="Category">
+        @if (Model != null && Model.Id != 0)
+        {
+            <input asp-for="Id" hidden />
+        }
+        <div>
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <input type="submit" class="btn btn-primary mt-3" />
+    </form>
+</div>
+
+<partial name="_ValidationScriptsPartial"></partial>
